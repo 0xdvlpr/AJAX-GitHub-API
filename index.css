@@ -4,4 +4,6 @@ body {
 
   h1 {
     font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 30px;
   }
