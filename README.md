@@ -1,1 +1,1 @@
-# AJAX-GitHub-API
+# AJAX GitHub API
