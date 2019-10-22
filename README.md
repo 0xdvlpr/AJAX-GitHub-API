@@ -1,1 +1,1 @@
-# AJAX GitHub API
+# Profile Finder (GitHub)
